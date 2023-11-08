@@ -1,6 +1,7 @@
 # History-of-Education-In-India
 In this repository, I will put all important resources on the History of Education in India.
 1. Mazumder, Nogendra Nath, [A History of Education in Ancient India](https://github.com/anujksirohi/History-of-Education-In-India/blob/main/A%20History%20of%20Education%20in%20Ancient%20India.pdf), Macmillan & Co, London, [**1916**](https://indianculture.gov.in/rarebooks/history-education-ancient-india)
+2. Altekar, Anant Sadashiv, Education in Ancient India,  Nand Kishore And Bros, [1934](https://archive.org/details/educationinancie032398mbp)
 https://ncert.nic.in/textbook/pdf/heih111.pdf
 ##
 Other Important Books/Articles
