@@ -8,3 +8,4 @@ Other Important Books/Articles
 1. [**Schooling In Capitalist America: Educational Reform And The Contradictions Of Economic Life**](https://books.google.co.in/books/about/Schooling_in_Capitalist_America.html?id=gwfcAgAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&redir_esc=y#v=onepage&q&f=false)
 2. [**Education and Power**](https://books.google.co.in/books?id=4pLHBQAAQBAJ&printsec=frontcover&dq=michael+apple+education+and+power&hl=en&newbks=1&newbks_redir=0&sa=X&redir_esc=y#v=onepage&q=michael%20apple%20education%20and%20power&f=false)
 3. https://nationalarchives.nic.in/sites/default/files/SECTION-3.pdf
+4. https://s3-us-west-2.amazonaws.com/visionresources/infographics/viceroys-of-India-1899-1931.pdf
